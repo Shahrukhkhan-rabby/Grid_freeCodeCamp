@@ -1,0 +1,14 @@
+.container {
+  display: grid;
+  grid-template-columns: 10px;
+  width: 100%;
+}
+.jus {
+    text-align: center;
+}
+.yellow {
+    background-color: yellow;
+}
+body {
+    width: 100%;
+}
